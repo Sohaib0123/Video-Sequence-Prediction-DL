@@ -48,7 +48,7 @@ To assess the accuracy and effectiveness of frame prediction, we used the follow
 - **Structural Similarity Index (SSIM):** Evaluates perceptual similarity between frames, considering luminance, contrast, and structure.
 - **Qualitative Analysis:** Visual inspection of generated frames to assess coherence, smoothness, and realism.
 
-### ** Report & Documentation**  
+### Report & Documentation
 - Conducted a **comparative analysis** of the models based on frame quality, inference time, and computational efficiency.  
 - Documented challenges, findings, and future improvements.  
 
